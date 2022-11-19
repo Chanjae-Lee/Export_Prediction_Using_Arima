@@ -1,0 +1,12 @@
+## HTRAIN
+2000년부터 2021년까지의 월별 데이터
+
+TOTAL = 한국 총 수출 금액
+CHINA, USA, VIETNAM, JAPAN, HONGKONG = 한국이 해당 국가로 수출한 금액
+KOREA_INDEX = 한국 경기 선행지수
+OECD_INDEX = OECD 경기 선행지수
+OIL = 국제 유가
+EX_RATE = 환율
+
+## result
+2022년 1월부터 6월까지 한국 총 수출 금액 
